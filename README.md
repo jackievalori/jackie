@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jackie Valori.
 - 💻 I'm primarily a Ruby on Rails developer with a BFA in Communication Design and a passion for building beautiful and functional things on the web.
 - 👀 I’m interested in front end and full stack development.
-- 🌱 I’m currently learning ...many things! React and Tailwind are at the top of my list right now. Also getting into JAM Stack.
+- 🌱 I’m currently learning ...many things! React and Tailwind are at the top of my list right now.
 - 📫 How to reach me ... jackievaloridesign@gmail.com
